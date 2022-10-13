@@ -1,2 +1,5 @@
-# Test1
-Test Repository
+# Some mini project using python
+# --------------
+   /        \
+  /( . )( . )\    ----> patrick
+ /            \
